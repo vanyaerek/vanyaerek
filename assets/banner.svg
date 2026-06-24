@@ -31,10 +31,10 @@
   <path d="M80 285 H1120" stroke="#94a3b8" stroke-opacity="0.12"/>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="82" y="86" fill="#64748b" font-size="18" letter-spacing="4">VANYAEREK // BUILDING QUIET SYSTEMS</text>
-    <text x="80" y="158" fill="#f8fafc" font-size="54" font-weight="800" letter-spacing="-1.4">Telegram · Infra · Automation</text>
-    <text x="84" y="206" fill="#cbd5e1" font-size="23">backend, bots, Linux/VPS, privacy tooling and editorial cyber media</text>
-    <text x="84" y="316" fill="#38bdf8" font-size="18">root@github:~$ ship practical things, keep signal high</text>
+    <text x="82" y="86" fill="#64748b" font-size="18" letter-spacing="4">VANYAEREK // ПРАКТИЧНЫЕ СИСТЕМЫ</text>
+    <text x="80" y="158" fill="#f8fafc" font-size="54" font-weight="800" letter-spacing="-1.4">Telegram · Инфраструктура · Автоматизация</text>
+    <text x="84" y="206" fill="#cbd5e1" font-size="23">бэкенд, боты, Linux/VPS, приватность и технические медиа</text>
+    <text x="84" y="316" fill="#38bdf8" font-size="18">root@github:~$ делать полезное, держать сигнал выше шума</text>
   </g>
 
   <g opacity="0.95">

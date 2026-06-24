@@ -1,88 +1,90 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Dark cyber-minimal banner: Telegram, infrastructure, automation" width="100%" />
+  <img src="assets/banner.svg" alt="Тёмный минималистичный баннер: Telegram, инфраструктура, автоматизация" width="100%" />
 </p>
 
 <h1 align="center">Vanya</h1>
 
 <p align="center">
-  <b>Backend · Telegram tooling · Linux/VPS infrastructure · AI automation · privacy-focused systems</b>
+  <b>Бэкенд · Telegram-инструменты · Linux/VPS-инфраструктура · AI-автоматизация · приватность</b>
 </p>
 
 <p align="center">
   <a href="https://ugduck.site">Гадкий Утёнок</a> ·
-  <a href="https://t.me/Gadkiy_utyonock">Telegram</a>
+  <a href="https://t.me/Gadkiy_utyonock">Telegram-канал</a>
 </p>
 
 ---
 
-## About
+## Обо мне
 
-I build practical systems close to the metal: from VPS and Linux services to backend APIs, Telegram-native tools, databases, automation pipelines and readable product surfaces.
+Я занимаюсь практичными техническими системами: от VPS и Linux-сервисов до бэкенда, Telegram-инструментов, баз данных, автоматизации и понятных пользовательских интерфейсов.
 
-Мне интересны проекты, где важны надёжность, приватность, простая эксплуатация и понятная подача сложных технических тем.
+Мне интересны проекты, где важны надёжность, приватность, простая эксплуатация и ясная подача сложных технических тем.
 
 ---
 
-## What I work with
+## Что я знаю и умею
 
-**Backend & product logic**
+**Бэкенд и продуктовая логика**
 
 - Go, Python, JavaScript
-- Flask, FastAPI, Telegram Bot API, aiogram
+- Flask, FastAPI
+- Telegram Bot API, aiogram
 - SQLite, PostgreSQL
-- REST APIs, background workers, automation scripts
+- REST API, фоновые задачи, скрипты автоматизации
 
-**Infrastructure**
+**Инфраструктура**
 
-- Linux, VPS operations, systemd
-- Docker basics, Caddy, Nginx
-- deployment, reverse proxies, logs, backups, monitoring habits
+- Linux и VPS-администрирование
+- systemd, базовая контейнеризация, деплой
+- Caddy, Nginx
+- reverse proxy, TLS-сертификаты, логи, бэкапы
 
-**Network & privacy tooling**
+**Сети, приватность и VPN-инфраструктура**
 
 - Xray, VLESS Reality, Hysteria2
-- WireGuard, Remnawave-oriented infrastructure
-- routing, certificates, subscriptions, client onboarding
+- WireGuard, Remnawave-подход к инфраструктуре
+- маршрутизация, подписки, клиентские конфиги, онбординг пользователей
 
-**Security-minded interests**
+**Безопасность и исследовательские задачи**
 
 - OSINT
-- privacy engineering
+- приватность и цифровая гигиена
 - Telegram/web security
-- practical threat awareness
-- clean operational workflows
+- практичная модель угроз
+- аккуратные операционные процессы
 
-**AI & automation**
+**AI и автоматизация**
 
 - AI-assisted workflows
-- agents and task automation
-- content pipelines
-- research/summarization tooling
+- агенты и автоматизация рутинных задач
+- пайплайны для контента и исследований
+- суммаризация, мониторинг, подготовка материалов
 
 ---
 
-## Public project
+## Публичный проект
 
 ### Гадкий Утёнок
 
 Независимый русскоязычный блог о технологиях, цифровой среде и кибербезопасности.
 
-The project is focused on signal over noise: verified facts, concise writing, privacy/cyber context and a calm editorial style.
+Проект про спокойную подачу, проверенные факты, приватность, кибербезопасность и понятный контекст без лишнего шума.
 
-- Website: **https://ugduck.site**
+- Сайт: **https://ugduck.site**
 - Telegram: **https://t.me/Gadkiy_utyonock**
 
 ---
 
-## Current focus
+## Текущий фокус
 
-- building useful Telegram-native and web tools;
-- improving infrastructure reliability and deployment workflows;
-- exploring privacy, security and automation;
-- publishing readable tech/cyber notes through **Гадкий Утёнок**.
+- делать полезные Telegram-native и web-инструменты;
+- улучшать инфраструктуру, деплой и эксплуатацию сервисов;
+- изучать приватность, безопасность и автоматизацию;
+- развивать **«Гадкий Утёнок»** как понятное техническое медиа.
 
 ---
 
 <p align="center">
-  <code>ship quietly · automate carefully · keep the signal high</code>
+  <code>делать полезное · автоматизировать аккуратно · держать сигнал выше шума</code>
 </p>
